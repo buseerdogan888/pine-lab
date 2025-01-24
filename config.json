@@ -1,0 +1,5 @@
+{
+  "data_directory": "../data-repo",
+  "log_level": "DEBUG",
+  "max_retries": 3
+}
